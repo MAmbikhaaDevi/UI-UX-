@@ -8,8 +8,12 @@ UX focuses on the user's overall experience and usability, ensuring the product 
 
    (Download the Design Template : https://www.figma.com/community/file/1486077831440605275)
 
+2. Login Animated Landing Page : https://www.figma.com/proto/FWfrt4fsW9hXMOjH1N3NHv/Animated-Landing-Page-with-Login-Form-(Community)?node-id=6-3&p=f&t=7qzlxhZDY4W3pZup-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A3
 
-2. Youtube Wireframes : https://www.figma.com/proto/SAnkCtRvevXS4lt8W5JWjZ/Wireframe-(Youtube)-(Community)?node-id=1-2&p=f&t=waWgpjRdnb9G9JgU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+   (Download the Design Template : https://www.figma.com/community/file/1486249501525886134)
+
+
+3. Youtube Wireframes : https://www.figma.com/proto/SAnkCtRvevXS4lt8W5JWjZ/Wireframe-(Youtube)-(Community)?node-id=1-2&p=f&t=waWgpjRdnb9G9JgU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
    (Download the Design Template : https://www.figma.com/community/file/1486236995137769643)
 
